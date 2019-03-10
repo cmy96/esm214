@@ -24,3 +24,8 @@ Configured nginx to redirect traffic from port 80 to https
 
 1.0.4
 Increased additional ports, 8003-8005
+
+1.0.5
+Decreased ports. Only 8000-8002 up
+Made changes to html pages
+Edited configurations to only allow external content from google
