@@ -10,3 +10,8 @@ Http on port 80 was configured to correctly direct user to coperate website
 All packages were updated to apply all security patches
 Security groups was edited to allow access to port 443 for https
 Django debug mode turned off
+
+1.0.2	
+Nagios was configured to be used as a monitoring tool
+Port 8001 and 8002 was used to run multiple instances of the coperate website
+Non relevant files found in the production server were removed
