@@ -4,3 +4,9 @@ Changes from previous version
 1.0.0	
 NA
 
+1.0.1	
+A self signed certificate was used to allow for https access to the website
+Http on port 80 was configured to correctly direct user to coperate website
+All packages were updated to apply all security patches
+Security groups was edited to allow access to port 443 for https
+Django debug mode turned off
