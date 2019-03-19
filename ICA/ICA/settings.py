@@ -27,7 +27,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,"templates")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1',PUBLIC_IP]
+ALLOWED_HOSTS = ['localhost','127.0.0.1',PUBLIC_IP,'www.g5t5.tk','g5t5.tk']
 
 
 # Application definition

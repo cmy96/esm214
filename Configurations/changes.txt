@@ -29,3 +29,7 @@ Increased additional ports, 8003-8005
 Decreased ports. Only 8000-8002 up
 Made changes to html pages
 Edited configurations to only allow external content from google
+
+1.0.6
+Configured Guniorn to be used
+iframe link used in consumer homepage changed due to malicious content
