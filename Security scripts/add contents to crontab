@@ -1,0 +1,2 @@
+0 1 * * 0 bash /home/ec2-user/upgrade-security.sh
+@reboot bash /home/ec2-user/start-gunicorn.sh
