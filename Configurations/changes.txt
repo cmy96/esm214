@@ -36,3 +36,8 @@ iframe link used in consumer homepage changed due to malicious content
 
 1.1.2
 Iframe linked updated to new link by service provider
+
+1.1.3
+Added in visualping and freshping under monitoring tools
+Added in autostart configurations for Gunicorn
+Added in cronjobs to upgrade security patches every sunday
